@@ -1,0 +1,2 @@
+
+	O seletor * pode ser usado para selecionar o elemento span, assim como o seletor cl1.  
