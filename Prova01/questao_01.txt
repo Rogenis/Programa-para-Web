@@ -1,4 +1,5 @@
-
+David: Todos os erros foram reportados corretamente
+Nota: 2.0
 
 Na linha 4, o comentário está com a tag errada, pois deveria ser <! comentário --> e não /*.
 

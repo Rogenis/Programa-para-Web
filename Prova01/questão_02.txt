@@ -1,2 +1,5 @@
+David: Apenas o seletor cl1 está correto.
+Nota: 0.7
+
 
 	O seletor * pode ser usado para selecionar o elemento span, assim como o seletor cl1.  

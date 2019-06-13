@@ -1,3 +1,5 @@
+David: Definição de closure incorreta. A descrição do código não informa como o conceito de closure é explorado.
+Nota: 0.5
 
 Closure sao funções interiores que podem ter acesso a variaveis de uma função exterior; 
 
